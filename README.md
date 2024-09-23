@@ -1,2 +1,2 @@
 # elmadrugondechelito
-# se vrea la pajina de prueba para el madrugon de chelito
+# se crea la pagina de prueba para el madrugon de chelito
